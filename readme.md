@@ -1,1 +1,1 @@
-Sports Team Website task
+Sports Team Website task.
