@@ -1,0 +1,19 @@
+header {
+    text-align: center;
+    color: cadetblue;
+}
+section table {
+    border: 2px solid blue;
+    width: 500px;
+}
+table, th, td {
+    border: 2px solid green;
+    text-align: center;
+    padding: 10px;
+}
+tr:hover {
+    background-color: rgb(125, 125, 252);
+}
+section img {
+    width: 250px;
+}
